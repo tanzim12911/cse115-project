@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1687005161 source:c:\users\tanzi\onedrive\documents\git\cse115-project\cse115-project\main.c
+	<stdio.h>
+	"login.h"
+	"menu.h"
+	"splash.h"
+
+1687005885 c:\users\tanzi\onedrive\documents\git\cse115-project\cse115-project\login.h
+
+1687005262 c:\users\tanzi\onedrive\documents\git\cse115-project\cse115-project\menu.h
+
+1687005864 c:\users\tanzi\onedrive\documents\git\cse115-project\cse115-project\splash.h
+	<dos.h>
+
+1687114605 source:c:\users\tanzi\onedrive\documents\git\cse115-project\main.c
+	<stdio.h>
+	"login.h"
+	"menu.h"
+	"splash.h"
+
+1687010820 c:\users\tanzi\onedrive\documents\git\cse115-project\login.h
+
+1687115156 c:\users\tanzi\onedrive\documents\git\cse115-project\menu.h
+
+1687114965 c:\users\tanzi\onedrive\documents\git\cse115-project\splash.h
+	<dos.h>
+
