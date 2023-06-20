@@ -36,7 +36,3 @@ Jawadul Karim Tanzim
 * 0.1
     * Initial Release
 
-## Acknowledgments
-
-Github tutorial
-* [anisul-islam](https://github.com/anisul-Islam)
