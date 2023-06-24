@@ -1,4 +1,4 @@
-# Monetary Logistics Service Management System
+# Logistics Service Management System
 
 The project is based on monetary logistics services like bKash, Nagad etc. and is called LenDen. 
 In this project, the user is prompted to login to their account. After successful login they can
